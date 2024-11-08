@@ -33,5 +33,5 @@ def add(a, b):
 st.code(code, language="python") # displays the contents of "code" as a code
 
 st.write("## H2")
-st.metric(label="Wind Speed", value="120ms\^-1", delta="-1.4ms\^-1")
+st.metric(label="Wind Speed", value="120ms\^-1", delta="+1.4ms\^-1")
 
