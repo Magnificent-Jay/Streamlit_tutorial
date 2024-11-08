@@ -17,7 +17,7 @@ st.markdown("---") # This is used to input a breaking line in the text
 st.caption("Hi I am a caption") #This is used to depict a caption.
 
 # If you want to write a mathematical expression, use:
-st.latex(r"\begin{pmatrix}a&b\\c&d\end{pmatix}")
+st.latex(r"\begin{pmatrix}a&b\\c&d\end{pmatrix}")
 # for more, visit https://www.katex.org/docs/supported.html
 
 # Json function allows us add a json cord in our web app
